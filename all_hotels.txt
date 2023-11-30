@@ -1,0 +1,10 @@
+000001|Park|Novosadskog sajma 1|d|d||4.2
+000002|Moscow|Njegoseva 22|n|d||4.3
+000003|Kamelija|Mocartova 7|d|d|deleted|5.0
+000004|Hilton|Bulevar Evrope 162|d|n||3.2
+000005|Pheraton|Bulevar Oslobodjenja 123|n|d||4.1
+000006|Jelak|Janka Cmelika 54|n|d||4.175
+000007|Bor|Maksima Gorkog 55, Novi sad|d|d||3.8
+000008|Zlatni bor|Zlatiborska 11|d|d||4.7
+000009|Lotos|Cvetni trg 15|n|d||0.0
+000010|Sunce|Kisacka 1, Novi Sad|n|d||0.0

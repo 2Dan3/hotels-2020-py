@@ -1,0 +1,3 @@
+last_reservation: 000013
+last_hotel: 000010
+last_room: 000013
