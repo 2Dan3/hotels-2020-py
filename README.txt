@@ -1,3 +1,7 @@
+A small (beginner coding level) Python console app for Hotel reservation management as Administrator, Receptionist or Guest (programming basics).
+
+Functionalities within the project (sr):
+________________________________________
 Realizovane funkcionalnosti u projektu
 ________________________________________
 
